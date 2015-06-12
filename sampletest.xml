@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>Napoleon's white horse's color is:</para>
+  <orderedlist>
+    <listitem>
+        <para><emphasis>White.</emphasis></para>
+    </listitem>
+    <listitem>
+      <para>Green.</para>
+    </listitem>
+    <listitem>
+      <para>Yellow.</para>
+    </listitem>
+  </orderedlist>
+</article>
